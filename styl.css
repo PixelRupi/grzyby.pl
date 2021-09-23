@@ -1,0 +1,37 @@
+#header{
+  background-color: #4009ad;
+  height: 100px;
+  color: white;
+}
+
+#lewo {
+  background-color: #673dba;
+  float: left;
+  width: 40%;
+  height: 700px;
+}
+
+#prawo {
+  background-color: #4c2c8a;
+  float: left;
+  width: 60%;
+  height: 700px;
+}
+
+#feet {
+  background-color: #4009ad;
+  clear: both;
+  height: 100px;
+  text-align: right;
+  color: white;
+}
+
+table, tr, td {
+  border: 1px solid white;
+  padding: 10px
+}
+
+#form_button {
+  background-color: #17bce6;
+  color: white;
+}
